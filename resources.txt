@@ -23,3 +23,5 @@ https://www.instructables.com/Reverse-engineering-of-an-Air-Conditioning-control
 
 Serial.println(resultToHumanReadableBasic(&results));
 Serial.println(resultToSourceCode(&results));
+
+https://www.e-tinkers.com/2019/11/build-an-esp32-web-server-and-ir-remote/
